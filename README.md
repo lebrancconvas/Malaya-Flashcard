@@ -1,8 +1,8 @@
-# Project Name
+# Malaya Flashcard
 
 ## Overview
 
-Insert your project's details (What?, Why?).
+Learning Malay & Indonesian Language by Flashcard Method.
 
 ## Software Design
 
