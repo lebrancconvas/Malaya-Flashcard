@@ -2,7 +2,13 @@
 
 ## Programming Language
 
+- Typescript
+- HTML (Markup Language)
+- CSS (Style Language)
+
 ## Front-End
+
+- SvelteKit
 
 ## Back-End
 
@@ -14,8 +20,12 @@
 
 ### Version Control
 
+- Git (Github)
+
 ### CI / CD
 
 ## Text Editor
+
+- Visual Studio Code
 
 ## Other
