@@ -1,3 +1,7 @@
+<script lang="ts">
+
+</script>
+
 <svelte:head>
 	<title>Malaya Flashcard | Register</title> 
 </svelte:head>
@@ -9,3 +13,7 @@
 		</div>
 	</header>
 </main> 
+
+<style>
+
+</style>
