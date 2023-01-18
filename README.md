@@ -12,10 +12,10 @@ Learning Malay & Indonesian Language by Flashcard Method.
 
 ### Diagram [[Using PlantUML to generate Diagram]](https://plantuml.com/)
 
-- Use Case Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/UseCase)
-- Entity-Relationship Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/ER)
-- Sequence Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/Sequence)
-- Activity Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/Activity)
+- Use Case Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/PlantUML/UseCase)
+- Entity-Relationship Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/PlantUML/ER)
+- Sequence Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/PlantUML/Sequence)
+- Activity Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/PlantUML/Activity)
 
 ### Tech Stack
 
