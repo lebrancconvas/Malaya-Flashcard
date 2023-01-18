@@ -1,0 +1,25 @@
+@startuml Malaya_Flashcard_UseCase 
+left to right direction 
+skinparam packageStyle rectangle
+
+actor user 
+actor admin 
+
+rectangle Malaya_Flashcard {
+	user -- (Register)
+	user -- (Login) 
+	(Login) -- admin 
+	(Login) .> (Register) : <<Include>> 
+	user -- (Word Feed)
+	user -- (Word Search)
+	user -- (Word Favorite)
+	user -- (Word Bookmark)
+	user -- (Board Topic CRUD)
+	user -- (Quiz Test)
+	(Word Data Management CRUD) -- admin 
+	(User Data Management RUD) -- admin 
+	(Board Topic CRUD) -- admin 
+	(Quiz Data Management CRUD) -- admin 
+}
+
+@enduml 
