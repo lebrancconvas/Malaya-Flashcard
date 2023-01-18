@@ -8,18 +8,18 @@ Learning Malay & Indonesian Language by Flashcard Method.
 
 ### Requirement
 
-[Click to view Requirement Details](https://github.com/lebrancconvas/Software-Project-Template/blob/main/Docs/Requirement.md)
+[Click to view Requirement Details](https://github.com/lebrancconvas/Malaya-Flashcard/blob/main/Docs/Requirement.md)
 
 ### Diagram [[Using PlantUML to generate Diagram]](https://plantuml.com/)
 
-- Use Case Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/UseCase)
-- Entity-Relationship Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/ER)
-- Sequence Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/Sequence)
-- Activity Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Software-Project-Template/tree/main/Docs/Diagram/Activity)
+- Use Case Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/UseCase)
+- Entity-Relationship Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/ER)
+- Sequence Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/Sequence)
+- Activity Diagram [[View PlantUML Code]](https://github.com/lebrancconvas/Malaya-Flashcard/tree/main/Docs/Diagram/Activity)
 
 ### Tech Stack
 
-[Click to view Tech Stack Details](https://github.com/lebrancconvas/Software-Project-Template/blob/main/Docs/TechStack.md)
+[Click to view Tech Stack Details](https://github.com/lebrancconvas/Malaya-Flashcard/blob/main/Docs/TechStack.md)
 
 ## Installation
 
